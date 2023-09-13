@@ -1,0 +1,32 @@
+
+-        Presale design block attached and page.
+
+-        Want to use the Gif supplied on opensea until the reveal date. 
+Then on 27th October at 5pm BST all NFTs purchased will be revealed and also any purchases after this time will have instant reveal.
+
+-        No whitelist but we still have presale.
+
+-        Presale Starts 20th October 4pm BST - ends on minting day  
+– 20 NFTs per transaction
+- Max 100 per wallet in total.
+
+-        Public Minting Day 26th October 7pm BST – 25 NFTs per transaction 
+- Max 100 per wallet in total. 
+
+-        We want to have 44 NFTs that we can send to people/winners etc. Please explain process and how do we have in our wallet ready.
+
+-        When a user mints a NFT do they get random order is order 1,2,3 etc.
+
+-        Can you start the Supernerds from #1 not #0 as this is how we done our marketing.
+
+-        On 26th October will have Minting block in homepage. No more presale block/page.
+
+-        Opensea test not working correctly wrong nerd image showed up. 
+
+-        Opensea properties not showing up.
+
+-        Please give guide on users how to mint.
+
+-        How to transfer ETH into another account
+
+-        Can you automatically send money from main receiving wallet to community wallet or is this manual process?
